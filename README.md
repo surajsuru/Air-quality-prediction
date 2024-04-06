@@ -1,7 +1,7 @@
 # Air-quality-prediction
 
 
-This Python script predicts the quality of air pollution by combining the predictions from logistic regression and an Artificial Neural Network (ANN).
+This Python script predicts the quality of air pollution by combining the predictions from linear regression and an Artificial Neural Network (ANN).
 
  The code first loads the training and testing data, then extracts features and target labels from the training set.
 
